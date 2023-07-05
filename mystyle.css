@@ -1,0 +1,13 @@
+    /* class  */
+    .bg-pink{
+        background-color: pink;
+        color: purple;
+    }
+    .ft{
+        font-size: 25px;
+    }
+
+    /* id  */
+    #name{
+        background-color: aqua;
+    }
